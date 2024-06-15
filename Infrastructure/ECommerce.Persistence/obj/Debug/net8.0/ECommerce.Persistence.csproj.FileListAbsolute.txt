@@ -1,0 +1,77 @@
+C:\Users\atamoghlanov_j\Desktop\ECommerce\Infrastructure\ECommerce.Persistence\bin\Debug\net8.0\ECommerce.Persistence.deps.json
+C:\Users\atamoghlanov_j\Desktop\ECommerce\Infrastructure\ECommerce.Persistence\bin\Debug\net8.0\ECommerce.Persistence.runtimeconfig.json
+C:\Users\atamoghlanov_j\Desktop\ECommerce\Infrastructure\ECommerce.Persistence\bin\Debug\net8.0\ECommerce.Persistence.dll
+C:\Users\atamoghlanov_j\Desktop\ECommerce\Infrastructure\ECommerce.Persistence\bin\Debug\net8.0\ECommerce.Persistence.pdb
+C:\Users\atamoghlanov_j\Desktop\ECommerce\Infrastructure\ECommerce.Persistence\bin\Debug\net8.0\ECommerce.Application.dll
+C:\Users\atamoghlanov_j\Desktop\ECommerce\Infrastructure\ECommerce.Persistence\bin\Debug\net8.0\ECommerce.Domain.dll
+C:\Users\atamoghlanov_j\Desktop\ECommerce\Infrastructure\ECommerce.Persistence\bin\Debug\net8.0\ECommerce.Application.pdb
+C:\Users\atamoghlanov_j\Desktop\ECommerce\Infrastructure\ECommerce.Persistence\bin\Debug\net8.0\ECommerce.Domain.pdb
+C:\Users\atamoghlanov_j\Desktop\ECommerce\Infrastructure\ECommerce.Persistence\obj\Debug\net8.0\ECommerce.Persistence.csproj.AssemblyReference.cache
+C:\Users\atamoghlanov_j\Desktop\ECommerce\Infrastructure\ECommerce.Persistence\obj\Debug\net8.0\ECommerce.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atamoghlanov_j\Desktop\ECommerce\Infrastructure\ECommerce.Persistence\obj\Debug\net8.0\ECommerce.Persistence.AssemblyInfoInputs.cache
+C:\Users\atamoghlanov_j\Desktop\ECommerce\Infrastructure\ECommerce.Persistence\obj\Debug\net8.0\ECommerce.Persistence.AssemblyInfo.cs
+C:\Users\atamoghlanov_j\Desktop\ECommerce\Infrastructure\ECommerce.Persistence\obj\Debug\net8.0\ECommerce.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\atamoghlanov_j\Desktop\ECommerce\Infrastructure\ECommerce.Persistence\obj\Debug\net8.0\ECommerc.8296B1A3.Up2Date
+C:\Users\atamoghlanov_j\Desktop\ECommerce\Infrastructure\ECommerce.Persistence\obj\Debug\net8.0\ECommerce.Persistence.dll
+C:\Users\atamoghlanov_j\Desktop\ECommerce\Infrastructure\ECommerce.Persistence\obj\Debug\net8.0\refint\ECommerce.Persistence.dll
+C:\Users\atamoghlanov_j\Desktop\ECommerce\Infrastructure\ECommerce.Persistence\obj\Debug\net8.0\ECommerce.Persistence.pdb
+C:\Users\atamoghlanov_j\Desktop\ECommerce\Infrastructure\ECommerce.Persistence\obj\Debug\net8.0\ECommerce.Persistence.genruntimeconfig.cache
+C:\Users\atamoghlanov_j\Desktop\ECommerce\Infrastructure\ECommerce.Persistence\obj\Debug\net8.0\ref\ECommerce.Persistence.dll
+C:\Users\atamoghlanov_j\Desktop\Lesson 17. CQRS and MediatR\ECommerce\Infrastructure\ECommerce.Persistence\bin\Debug\net8.0\ECommerce.Persistence.deps.json
+C:\Users\atamoghlanov_j\Desktop\Lesson 17. CQRS and MediatR\ECommerce\Infrastructure\ECommerce.Persistence\bin\Debug\net8.0\ECommerce.Persistence.runtimeconfig.json
+C:\Users\atamoghlanov_j\Desktop\Lesson 17. CQRS and MediatR\ECommerce\Infrastructure\ECommerce.Persistence\bin\Debug\net8.0\ECommerce.Persistence.dll
+C:\Users\atamoghlanov_j\Desktop\Lesson 17. CQRS and MediatR\ECommerce\Infrastructure\ECommerce.Persistence\bin\Debug\net8.0\ECommerce.Persistence.pdb
+C:\Users\atamoghlanov_j\Desktop\Lesson 17. CQRS and MediatR\ECommerce\Infrastructure\ECommerce.Persistence\bin\Debug\net8.0\ECommerce.Application.dll
+C:\Users\atamoghlanov_j\Desktop\Lesson 17. CQRS and MediatR\ECommerce\Infrastructure\ECommerce.Persistence\bin\Debug\net8.0\ECommerce.Domain.dll
+C:\Users\atamoghlanov_j\Desktop\Lesson 17. CQRS and MediatR\ECommerce\Infrastructure\ECommerce.Persistence\bin\Debug\net8.0\ECommerce.Application.pdb
+C:\Users\atamoghlanov_j\Desktop\Lesson 17. CQRS and MediatR\ECommerce\Infrastructure\ECommerce.Persistence\bin\Debug\net8.0\ECommerce.Domain.pdb
+C:\Users\atamoghlanov_j\Desktop\Lesson 17. CQRS and MediatR\ECommerce\Infrastructure\ECommerce.Persistence\obj\Debug\net8.0\ECommerce.Persistence.csproj.AssemblyReference.cache
+C:\Users\atamoghlanov_j\Desktop\Lesson 17. CQRS and MediatR\ECommerce\Infrastructure\ECommerce.Persistence\obj\Debug\net8.0\ECommerce.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atamoghlanov_j\Desktop\Lesson 17. CQRS and MediatR\ECommerce\Infrastructure\ECommerce.Persistence\obj\Debug\net8.0\ECommerce.Persistence.AssemblyInfoInputs.cache
+C:\Users\atamoghlanov_j\Desktop\Lesson 17. CQRS and MediatR\ECommerce\Infrastructure\ECommerce.Persistence\obj\Debug\net8.0\ECommerce.Persistence.AssemblyInfo.cs
+C:\Users\atamoghlanov_j\Desktop\Lesson 17. CQRS and MediatR\ECommerce\Infrastructure\ECommerce.Persistence\obj\Debug\net8.0\ECommerce.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\atamoghlanov_j\Desktop\Lesson 17. CQRS and MediatR\ECommerce\Infrastructure\ECommerce.Persistence\obj\Debug\net8.0\ECommerc.8296B1A3.Up2Date
+C:\Users\atamoghlanov_j\Desktop\Lesson 17. CQRS and MediatR\ECommerce\Infrastructure\ECommerce.Persistence\obj\Debug\net8.0\ECommerce.Persistence.dll
+C:\Users\atamoghlanov_j\Desktop\Lesson 17. CQRS and MediatR\ECommerce\Infrastructure\ECommerce.Persistence\obj\Debug\net8.0\refint\ECommerce.Persistence.dll
+C:\Users\atamoghlanov_j\Desktop\Lesson 17. CQRS and MediatR\ECommerce\Infrastructure\ECommerce.Persistence\obj\Debug\net8.0\ECommerce.Persistence.pdb
+C:\Users\atamoghlanov_j\Desktop\Lesson 17. CQRS and MediatR\ECommerce\Infrastructure\ECommerce.Persistence\obj\Debug\net8.0\ECommerce.Persistence.genruntimeconfig.cache
+C:\Users\atamoghlanov_j\Desktop\Lesson 17. CQRS and MediatR\ECommerce\Infrastructure\ECommerce.Persistence\obj\Debug\net8.0\ref\ECommerce.Persistence.dll
+C:\RustamH\Downloads\ECommerce-20240611T160115Z-001\ECommerce\Infrastructure\ECommerce.Persistence\bin\Debug\net8.0\ECommerce.Persistence.deps.json
+C:\RustamH\Downloads\ECommerce-20240611T160115Z-001\ECommerce\Infrastructure\ECommerce.Persistence\bin\Debug\net8.0\ECommerce.Persistence.runtimeconfig.json
+C:\RustamH\Downloads\ECommerce-20240611T160115Z-001\ECommerce\Infrastructure\ECommerce.Persistence\bin\Debug\net8.0\ECommerce.Persistence.dll
+C:\RustamH\Downloads\ECommerce-20240611T160115Z-001\ECommerce\Infrastructure\ECommerce.Persistence\bin\Debug\net8.0\ECommerce.Persistence.pdb
+C:\RustamH\Downloads\ECommerce-20240611T160115Z-001\ECommerce\Infrastructure\ECommerce.Persistence\bin\Debug\net8.0\ECommerce.Application.dll
+C:\RustamH\Downloads\ECommerce-20240611T160115Z-001\ECommerce\Infrastructure\ECommerce.Persistence\bin\Debug\net8.0\ECommerce.Domain.dll
+C:\RustamH\Downloads\ECommerce-20240611T160115Z-001\ECommerce\Infrastructure\ECommerce.Persistence\bin\Debug\net8.0\ECommerce.Application.pdb
+C:\RustamH\Downloads\ECommerce-20240611T160115Z-001\ECommerce\Infrastructure\ECommerce.Persistence\bin\Debug\net8.0\ECommerce.Domain.pdb
+C:\RustamH\Downloads\ECommerce-20240611T160115Z-001\ECommerce\Infrastructure\ECommerce.Persistence\obj\Debug\net8.0\ECommerce.Persistence.csproj.AssemblyReference.cache
+C:\RustamH\Downloads\ECommerce-20240611T160115Z-001\ECommerce\Infrastructure\ECommerce.Persistence\obj\Debug\net8.0\ECommerce.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\RustamH\Downloads\ECommerce-20240611T160115Z-001\ECommerce\Infrastructure\ECommerce.Persistence\obj\Debug\net8.0\ECommerce.Persistence.AssemblyInfoInputs.cache
+C:\RustamH\Downloads\ECommerce-20240611T160115Z-001\ECommerce\Infrastructure\ECommerce.Persistence\obj\Debug\net8.0\ECommerce.Persistence.AssemblyInfo.cs
+C:\RustamH\Downloads\ECommerce-20240611T160115Z-001\ECommerce\Infrastructure\ECommerce.Persistence\obj\Debug\net8.0\ECommerce.Persistence.csproj.CoreCompileInputs.cache
+C:\RustamH\Downloads\ECommerce-20240611T160115Z-001\ECommerce\Infrastructure\ECommerce.Persistence\obj\Debug\net8.0\ECommerce.Persistence.sourcelink.json
+C:\RustamH\Downloads\ECommerce-20240611T160115Z-001\ECommerce\Infrastructure\ECommerce.Persistence\obj\Debug\net8.0\ECommerc.8296B1A3.Up2Date
+C:\RustamH\Downloads\ECommerce-20240611T160115Z-001\ECommerce\Infrastructure\ECommerce.Persistence\obj\Debug\net8.0\ECommerce.Persistence.dll
+C:\RustamH\Downloads\ECommerce-20240611T160115Z-001\ECommerce\Infrastructure\ECommerce.Persistence\obj\Debug\net8.0\refint\ECommerce.Persistence.dll
+C:\RustamH\Downloads\ECommerce-20240611T160115Z-001\ECommerce\Infrastructure\ECommerce.Persistence\obj\Debug\net8.0\ECommerce.Persistence.pdb
+C:\RustamH\Downloads\ECommerce-20240611T160115Z-001\ECommerce\Infrastructure\ECommerce.Persistence\obj\Debug\net8.0\ECommerce.Persistence.genruntimeconfig.cache
+C:\RustamH\Downloads\ECommerce-20240611T160115Z-001\ECommerce\Infrastructure\ECommerce.Persistence\obj\Debug\net8.0\ref\ECommerce.Persistence.dll
+C:\Users\ASUS\Desktop\ASP.NET-Token-Homework\Infrastructure\ECommerce.Persistence\bin\Debug\net8.0\ECommerce.Persistence.deps.json
+C:\Users\ASUS\Desktop\ASP.NET-Token-Homework\Infrastructure\ECommerce.Persistence\bin\Debug\net8.0\ECommerce.Persistence.runtimeconfig.json
+C:\Users\ASUS\Desktop\ASP.NET-Token-Homework\Infrastructure\ECommerce.Persistence\bin\Debug\net8.0\ECommerce.Persistence.dll
+C:\Users\ASUS\Desktop\ASP.NET-Token-Homework\Infrastructure\ECommerce.Persistence\bin\Debug\net8.0\ECommerce.Persistence.pdb
+C:\Users\ASUS\Desktop\ASP.NET-Token-Homework\Infrastructure\ECommerce.Persistence\bin\Debug\net8.0\ECommerce.Application.dll
+C:\Users\ASUS\Desktop\ASP.NET-Token-Homework\Infrastructure\ECommerce.Persistence\bin\Debug\net8.0\ECommerce.Domain.dll
+C:\Users\ASUS\Desktop\ASP.NET-Token-Homework\Infrastructure\ECommerce.Persistence\bin\Debug\net8.0\ECommerce.Application.pdb
+C:\Users\ASUS\Desktop\ASP.NET-Token-Homework\Infrastructure\ECommerce.Persistence\bin\Debug\net8.0\ECommerce.Domain.pdb
+C:\Users\ASUS\Desktop\ASP.NET-Token-Homework\Infrastructure\ECommerce.Persistence\obj\Debug\net8.0\ECommerce.Persistence.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\ASP.NET-Token-Homework\Infrastructure\ECommerce.Persistence\obj\Debug\net8.0\ECommerce.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ASP.NET-Token-Homework\Infrastructure\ECommerce.Persistence\obj\Debug\net8.0\ECommerce.Persistence.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ASP.NET-Token-Homework\Infrastructure\ECommerce.Persistence\obj\Debug\net8.0\ECommerce.Persistence.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ASP.NET-Token-Homework\Infrastructure\ECommerce.Persistence\obj\Debug\net8.0\ECommerce.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ASP.NET-Token-Homework\Infrastructure\ECommerce.Persistence\obj\Debug\net8.0\ECommerc.8296B1A3.Up2Date
+C:\Users\ASUS\Desktop\ASP.NET-Token-Homework\Infrastructure\ECommerce.Persistence\obj\Debug\net8.0\ECommerce.Persistence.dll
+C:\Users\ASUS\Desktop\ASP.NET-Token-Homework\Infrastructure\ECommerce.Persistence\obj\Debug\net8.0\refint\ECommerce.Persistence.dll
+C:\Users\ASUS\Desktop\ASP.NET-Token-Homework\Infrastructure\ECommerce.Persistence\obj\Debug\net8.0\ECommerce.Persistence.pdb
+C:\Users\ASUS\Desktop\ASP.NET-Token-Homework\Infrastructure\ECommerce.Persistence\obj\Debug\net8.0\ECommerce.Persistence.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ASP.NET-Token-Homework\Infrastructure\ECommerce.Persistence\obj\Debug\net8.0\ref\ECommerce.Persistence.dll
